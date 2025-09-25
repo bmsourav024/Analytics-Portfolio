@@ -26,10 +26,6 @@ This project provides a comprehensive analysis of Zomato's global restaurant dat
 
 * **Tools:** Pivot Tables, Conditional Formatting, Bar Charts, Pie Charts
 
-# Visualization Dashboard
-
-<img width="1966" height="1085" alt="image" src="https://github.com/user-attachments/assets/3c78ed1d-725b-4150-ab56-45b480ad60ff" />
-
 # Key Insights and Recommendations
   Analysis revealed several insights, leading to actionable recommendations:
 

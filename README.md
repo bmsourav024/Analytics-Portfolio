@@ -42,4 +42,4 @@ This project provides a comprehensive analysis of Zomato's global restaurant dat
 * **Use Filters for Custom Views:** Apply the available filters to customize the data and focus on specific regions, cuisines, or other criteria you're interested in.
 
 # Credits
-Author: B M Sourava Raj
+**Author:** B M Sourava Raj

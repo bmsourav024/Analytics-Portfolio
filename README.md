@@ -1,9 +1,5 @@
 # Zomato Global Restaurant Analysis
 
-**Project Description**
-Zomato tasked us with analyzing their existing restaurant data to uncover opportunities for new restaurant openings. The project involved:
+# Project Description
 
-Cleaning and preparing the raw data for analysis.
-Utilizing pivot tables for in-depth data exploration.
-Developing a dashboard to visualize findings.
-Providing strategic insights and recommendations for potential new restaurant locations.
+This project provides a comprehensive analysis of Zomato's global restaurant data. The goal is to deliver data-backed recommendations to guide Zomato's management on where to expand internationally. The analysis focuses on identifying markets with high customer satisfaction and low competition by leveraging Excel functions and visualizations to interpret key trends.

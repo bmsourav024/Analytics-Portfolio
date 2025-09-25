@@ -6,27 +6,39 @@ This project provides a comprehensive analysis of Zomato's global restaurant dat
 
 # Key Features
 
-**Market Analysis:** Identification of promising countries and cities for expansion.
+* **Market Analysis:** Identification of promising countries and cities for expansion.
 
-**Customer Behavior Insights:** Analysis of customer ratings, voting trends, and preferences related to online delivery and table booking.
+* **Customer Behavior Insights:** Analysis of customer ratings, voting trends, and preferences related to online delivery and table booking.
 
-**Pricing and Expenditure:** Examination of average dining costs and their correlation with customer ratings to inform pricing strategies for new markets.
+* **Pricing and Expenditure:** Examination of average dining costs and their correlation with customer ratings to inform pricing strategies for new markets.
 
-**Cuisine Recommendations:** Identification of high-performing cuisines and café concepts that are well-received by customers in potential expansion markets.
+* **Cuisine Recommendations:** Identification of high-performing cuisines and café concepts that are well-received by customers in potential expansion markets.
 
-**Competitor Analysis:** Highlighting top competitors and lower-rated restaurants to understand the competitive landscape in target regions
+* **Competitor Analysis:** Highlighting top competitors and lower-rated restaurants to understand the competitive landscape in target regions
 
-**Data Cleaning and Preparation:** A detailed methodology for cleaning and standardizing the raw dataset, including handling missing values, standardizing currencies, and removing duplicates to ensure accurate analysis.
+* **Data Cleaning and Preparation:** A detailed methodology for cleaning and standardizing the raw dataset, including handling missing values, standardizing currencies, and removing duplicates to ensure accurate analysis.
 
 # Technologies Used
 
-**Microsoft Excel:** The primary tool used for data cleaning, analysis, and visualization.
+* **Microsoft Excel:** The primary tool used for data cleaning, analysis, and visualization.
 
-**Functions:** VLOOKUP, COUNTIFS, SUMPRODUCT, IF, MID, FIND, CONCAT.
+* **Functions:** VLOOKUP, COUNTIFS, SUMPRODUCT, IF, MID, FIND, CONCAT.
 
-**Tools:** Pivot Tables, Conditional Formatting, Bar Charts, Pie Charts
+* **Tools:** Pivot Tables, Conditional Formatting, Bar Charts, Pie Charts
 
-### **How to Navigate the Project**
+# Visualization Dashboard
+
+<img width="1966" height="1085" alt="image" src="https://github.com/user-attachments/assets/3c78ed1d-725b-4150-ab56-45b480ad60ff" />
+
+# Key Insights and Recommendations
+  Analysis revealed several insights, leading to actionable recommendations:
+
+* **Targeted Growth Areas:** Identified regions with low restaurant density but high demand, ideal for new establishments.
+* **Cuisine Opportunities:** Suggested focusing on popular cuisines that are underrepresented in certain areas.
+* **Quality Enhancement:** Emphasized the importance of maintaining high customer ratings to attract and retain patrons.
+
+
+# How to Navigate the Project
 
 * **Access the Excel File:** The entire project, including all data and analysis, is contained within a single Excel file.
 * **Explore the Dashboard:** Start by exploring the interactive dashboard to see the main findings and visualizations at a glance.

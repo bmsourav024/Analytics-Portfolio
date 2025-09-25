@@ -25,3 +25,10 @@ This project provides a comprehensive analysis of Zomato's global restaurant dat
 **Functions:** VLOOKUP, COUNTIFS, SUMPRODUCT, IF, MID, FIND, CONCAT.
 
 **Tools:** Pivot Tables, Conditional Formatting, Bar Charts, Pie Charts
+
+### **How to Navigate the Project**
+
+* **Access the Excel File:** The entire project, including all data and analysis, is contained within a single Excel file.
+* **Explore the Dashboard:** Start by exploring the interactive dashboard to see the main findings and visualizations at a glance.
+* **Deep Dive into Pivot Tables:** For a detailed look at the numbers, dive into the pivot tables. They provide a comprehensive breakdown of key metrics.
+* **Use Filters for Custom Views:** Apply the available filters to customize the data and focus on specific regions, cuisines, or other criteria you're interested in.
